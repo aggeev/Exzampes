@@ -1,0 +1,15 @@
+C:\Users\Денис\Desktop\Exzampes\bin\Debug\net6.0\Exzampes.exe
+C:\Users\Денис\Desktop\Exzampes\bin\Debug\net6.0\Exzampes.deps.json
+C:\Users\Денис\Desktop\Exzampes\bin\Debug\net6.0\Exzampes.runtimeconfig.json
+C:\Users\Денис\Desktop\Exzampes\bin\Debug\net6.0\Exzampes.dll
+C:\Users\Денис\Desktop\Exzampes\bin\Debug\net6.0\Exzampes.pdb
+C:\Users\Денис\Desktop\Exzampes\obj\Debug\net6.0\Exzampes.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\Exzampes\obj\Debug\net6.0\Exzampes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Desktop\Exzampes\obj\Debug\net6.0\Exzampes.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\Exzampes\obj\Debug\net6.0\Exzampes.AssemblyInfo.cs
+C:\Users\Денис\Desktop\Exzampes\obj\Debug\net6.0\Exzampes.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\Exzampes\obj\Debug\net6.0\Exzampes.dll
+C:\Users\Денис\Desktop\Exzampes\obj\Debug\net6.0\refint\Exzampes.dll
+C:\Users\Денис\Desktop\Exzampes\obj\Debug\net6.0\Exzampes.pdb
+C:\Users\Денис\Desktop\Exzampes\obj\Debug\net6.0\Exzampes.genruntimeconfig.cache
+C:\Users\Денис\Desktop\Exzampes\obj\Debug\net6.0\ref\Exzampes.dll
